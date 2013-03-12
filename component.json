@@ -1,10 +1,23 @@
 {
   "name": "flight",
-  "description": "Clientside component infrastructure",
+  "description": "flight for component/component",
   "main": "lib/index.js",
   "version": "1.0.3",
+  "repo": "6uop/flight",
+  "keywords": [],
   "dependencies": {
-    "es5-shim": "git://github.com/kriskowal/es5-shim.git#2.0.0",
-    "jquery": "1.8.3"
-  }
+  	"compoent/jquery":"*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "advice.js",
+    "component.js",
+    "compose.js",
+    "logger.js",
+    "registry.js",
+    "utils.js",
+    "debug.js"
+  ]
 }
