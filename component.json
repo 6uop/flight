@@ -6,6 +6,7 @@
   "repo": "6uop/flight",
   "keywords": [],
   "dependencies": {
+     "6uop/es5-shim":"*",
   	"compoent/jquery":"*"
   },
   "development": {},
