@@ -7,7 +7,7 @@
   "keywords": [],
   "dependencies": {
      "6uop/es5-shim":"*",
-  	"compoent/jquery":"*"
+  	"component/jquery":"*"
   },
   "development": {},
   "license": "MIT",
