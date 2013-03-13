@@ -1,7 +1,6 @@
 {
   "name": "flight",
   "description": "flight for component/component",
-  "main": "lib/index.js",
   "version": "1.0.3",
   "repo": "6uop/flight",
   "keywords": [],
