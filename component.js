@@ -9,7 +9,7 @@
     var advice = require('./advice');
     var utils = require('./utils');
     var compose = require('./compose');
-    var registry = require('.registry');
+    var registry = require('./registry');
 
     function teardownInstance(instanceInfo){
       instanceInfo.events.slice().forEach(function(event) {
